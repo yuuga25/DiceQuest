@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390868e7f9c3f4a48906b7eee6de031a, type: 3}
+  m_Name: Equipment
+  m_EditorClassIdentifier: 
+  equipment1: 0
+  equipment2: 14
+  equipment3: 14
+  kanjiName: "\u30D0\u30B9\u30BF\u30FC\u30BD\u30FC\u30C9"
+  hiraganaName: "\u3070\u3059\u305F\u30FC\u305D\u30FC\u3069"
+  information: "\u4F1D\u8AAC\u306E\u5263()"
+  EquipmentSize: 3
+  amount1: 15
+  amount2: 0
+  amount3: 0
