@@ -9,12 +9,34 @@
 
 開発期間：2021年 1月～2月
 
+###### ※審査会：普段授業を行っていただいているプロの講師の方に、個人で開発した作品を評価していただく会
 ## ゲームプレイ画像
-### タイトル画面
-https://user-images.githubusercontent.com/79131217/184511118-2c7ee8f8-ed31-4e30-a396-b1d4e70eef86.PNG
+### タイトル画面 / ホーム画面 / ステージ選択画面 / 強化画面
+![Title](https://user-images.githubusercontent.com/79131217/184511240-6592268f-5509-4855-b3e0-6a25c086d304.PNG)
+![Menu](https://user-images.githubusercontent.com/79131217/184511304-c23bf57c-75eb-45ca-999e-7590aec010c1.PNG)
+![StageSelect](https://user-images.githubusercontent.com/79131217/184511306-63c8d81d-53da-45a6-8b1b-428b56316e13.PNG)
+![Training](https://user-images.githubusercontent.com/79131217/184511308-83333e30-bd78-49ab-9667-902fe4177aae.PNG)
 
 ## ゲーム内容
 サイコロを振って、出た目によって攻撃するか移動するか選び、敵を倒し進んでいく「**スマートフォン向けタクティクスRPG**」です。
+#### プレイ画面（フィールド）
+ターン制で出た目によってプレイは上下左右のマスを移動していきます。  
+まずは、フィールドパートで半透明の黄色のブロックがある所を目指します。  
+![field](https://user-images.githubusercontent.com/79131217/184511303-71d27074-36d3-42d2-bf4b-ca31d5d4bbb9.PNG)
+![move](https://user-images.githubusercontent.com/79131217/184511305-4918daad-4290-4816-8b1d-4cc5507ac609.PNG)  
+#### プレイ画面（バトル）
+バトルパートでは、フィールドパートと同じく出た目で移動しますが、フィールドパートと大きく違うところは  
+**ダメージ**を受けるマスがあるところです。  
+大ダメージを受けるマスは**赤**、小ダメージを受けるマスは**オレンジ**などで表示されています。  
+逆に**緑**のマスはダメージを受けないマスで、**紫**のマスはプレイヤーを毒状態にします。  
+このようにプレイヤーはダメージを受けない又は少ないマスを意識しながら立ち回り、画面上部の残った数字で敵に攻撃することができます。
+###### 状態異常は**毒・火傷・凍結・睡眠・麻痺**があります  
+![battle](https://user-images.githubusercontent.com/79131217/184511300-94eedb8e-156a-4ba1-b3de-f67080345934.PNG)
+![battle2](https://user-images.githubusercontent.com/79131217/184511302-d81b993b-787c-46cd-96b9-a4c6404f7669.PNG)  
+*** 
+右上にある敵のHPを攻撃によって全て無くすと勝利です！そして先ほどのフィールドに戻ります。  
+![win](https://user-images.githubusercontent.com/79131217/184511309-b9d211f3-466e-4d22-8f3d-fb90fd7773e2.PNG)
+![field](https://user-images.githubusercontent.com/79131217/184511303-71d27074-36d3-42d2-bf4b-ca31d5d4bbb9.PNG)
 
 ## 製作意図
 ソーシャルゲームを制作してみたく、一番最初の段階としてスマートフォン向けゲームを制作することを目的として制作しました。
