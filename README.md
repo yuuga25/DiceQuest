@@ -54,6 +54,6 @@
 ### [次作 ←](https://github.com/yuuga25/pokemon_forUnity)
 ***
 ~~リメイク版を制作しております。完成したらこちらにもリポジトリのURLを載せます。~~  
-[リメイク版 ←](https://github.com/yuuga25/DiceQuest_new)
+### [リメイク版 ←](https://github.com/yuuga25/DiceQuest_new)
 ***
 2022/01/31
